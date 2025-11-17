@@ -16,6 +16,8 @@ The premium is on precise, no-nonsense prose.
 
 At bottom, you should include:
 
+{% include media_next.html pages=media %}
+
 **How to Cite:**
 Here, provide a citation using this model:
 
