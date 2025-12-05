@@ -70,6 +70,8 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo 1**
 
+assets/img/pic one.png
+
 _1:35-1:45_
 
 _Kenny[^9], a black factory worker, is picking through plastic toy bugs and sorting them in boxes_. 
