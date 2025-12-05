@@ -70,7 +70,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo 1**
 
-**1:35-1:45**
+_1:35-1:45_
 
 _Kenny[^9], a black factory worker, is picking through plastic toy bugs and sorting them in boxes_. 
 
@@ -91,7 +91,7 @@ _Arthur exits and Kenny continues his work_.
 
 **Photo 2**
 
-**2:21-3:48**
+_2:21-3:48_
 
 _In his office, Arthur is sitting at his desk testing toy props looking down while Kevin O’Grady[^11], an Irish-Pakistani worker is standing to his right_.
 
@@ -181,6 +181,124 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 [^12]: Norman Rossington, British actor born in Liverpool.
 [^13]: Enoch tbd
 [^14]: Race Relations tbd
+
+**Photo 3**
+
+_2:39 - 5:25_
+
+_Arthur comes into the factory to tell Norman that they have a new “Scotty” due to the labor shortage. Arthur tells Norman that the new hire is a foreign man. Norman becomes upset at hearing this news from Arthur. Norman becomes annoyed and says they already have another colored person working. Norman and Arthur briefly talk about the labor, and Kevin walks up behind Arthur. Kevin introduces himself as Kevin O’Grady_.
+
+Arthur: He’s Irish.
+
+Norman: Irish!? Well show us your passport
+
+Arthur: Nobody has to show a passport to start working here. Where’s your passport (_speaking towards Norman_).
+
+Norman: I haven’t got one.
+
+Arthur: Yeah, well I don’t know what you are then. You could be colored.
+
+_Norman becomes angry at Arthur’s words towards him_.
+
+Norman: Listen, all right cocky, but If I’ll be not gettin’ in, the eyes will have trouble too.
+
+_Norman starts to walk away_
+
+Norman: I tell you what, if they sent all the wogs[^15] back home, we’d have an extra hour of daylight.
+
+_Arthur and Norman turn and look at each other_.
+
+Arthur: Don’t worry about him, he’s wog-mad
+
+Kevin: Oh, no. He’s right There are far too many wogs in this country. I leave Pakistan because there are far too many wog there. So, I come to England, and there are still too many wog.
+
+Arthur: But, you’re one!
+
+Kevin: Oh, no. I’m Irish! Mick, red-face mick. We gotta be Jesus.
+
+_Kevin does the Sign of the Cross_.
+
+Arthur: All right, Patrick (_referencing Kevin_), let’s get down to some work.
+
+Kevin: Oh, look. You’ve been very kind to me, so I work very hard for you. I work… hard, hard, hard!
+
+Arthur: Well not too hard, lad.
+
+_Arthur brings Kevin over to a table to introduce him to more workers_.
+
+[^15]: used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East 
+
+**Photo 4**
+
+_3:58-4:15_
+
+_After trying to reassure his workers that the new employee will be satisfactory, saying to wait till they see him, the boss, Arthur, turns to be directly face-to-face with Kevin, nearly touching him. Arthur exclaims in surprise, and touches Kevin’s shoulder to shift him back_.
+
+Arthur: What’s your name?
+
+Kevin: O’Grady.
+
+_A laugh track plays while Arthur stares at him_.
+
+Kevin: Kevin O’Grady.
+
+Arthur: That’s an Irish name!
+
+Kevin: Yes, I’m Irish.
+
+_The joke is that Kevin subverts their expectation of having a typical South Asian name, and is mixed Irish-Pakistani_.
+
+**Photo 5**
+
+_6:35 - 7:14_
+
+_The workers all get their lunch and sit down at a table to eat. Kevin pours a heavy amount of salt on his food. Arthur stares at Kevin with his hand out as a gesture for the salt. While this is happening, there is background laughter and small talk. A young woman, who works at the factory, walks into the lunchroom_.
+
+_A few people whistle towards the woman as a cat-call and Kenny stares at the woman as she walks away_.
+
+Kevin: Oh, why does, what is that? Why does it do that?
+
+_Kevin keeps pouring salt on his food_
+
+Arthur: Oh, the whistle. Well, that’s British. That’s chivalry. Oh yeah, that’s to indicate to the young lady that she is… um
+
+_Arthur pauses for a moment and Norman jumps into the conversation_.
+
+Norman: Crumpet[^16].
+
+_Kevin begins to whistle towards the young woman_
+
+Kevin: Do you young crumpet lady?
+
+_Arthur looks around to see if the young woman reacts_.
+
+[^16]: British slang term used to refer to women in a inappropriate manner 
+
+**Photo 6**
+
+_15:00-15:22_
+
+_Arthur brings Kevin to the local bar that he frequents, to try and make Kevin feel more comfortable in a hostile work environment. The other patrons, Tom and Dick, give him flack for being a foreigner and being ‘colored.’ Kevin does not know what to order, so the others are suspicious that he may be a Muslim that would not drink, despite Kevin insisting against that. They give him a Guinness, a dark Irish beer, while everyone else is drinking lighter beers. Kevin takes offense from this, misunderstanding the intent_.
+
+_Tom, Dick, and Arthur raise their drinks_: Cheers!
+
+Kevin: Ah! Why you give me black drink?!
+
+_Arthur looks at the other bar patrons in shock and disbelief. Kevin puts a hand to his heart, offended_.
+
+Kevin: Is it– is it because I am colored!?
+
+_Tom throws his head back in exasperation_.
+
+Tom: God Almighty!
+
+Arthur: No, no, Guinness is always black, it's got nothing to do with the color. Look, if I had a Guinness, it would still be black!
+
+Kevin: So why don’t you drink Guinness? Arthur, why aren’t you drinking the Guinness?
+
+Arthur, _losing his temper_: Because I don’t like Guinness!
+
+_Arthur turns, venting his frustrations: You bend over backwards for them_!
 
 
 ***Bibliography***
