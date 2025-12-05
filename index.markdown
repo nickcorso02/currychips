@@ -226,7 +226,7 @@ Arthur: Well not too hard, lad.
 
 _Arthur brings Kevin over to a table to introduce him to more workers_.
 
-[^15]: used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East 
+[^15]: Used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East 
 
 **Photo 4**
 
@@ -272,7 +272,7 @@ Kevin: Do you young crumpet lady?
 
 _Arthur looks around to see if the young woman reacts_.
 
-[^16]: British slang term used to refer to women in a inappropriate manner 
+[^16]: British slang term used to refer to women in an inappropriate manner 
 
 **Photo 6**
 
@@ -353,7 +353,7 @@ TBD
 TBD
 
 # About MinDoc 1.0
-_Please leave this credit (eliminating this italicized part)_
+
 
 > This site was built using MinDoc 1.0, a prototype digital documentary edition template developed for classroom use by members of [SourceLab](https://sourcelab.history.illinois.edu/) at the University of Illinois Urbana-Champaign.  The original project team included Liza Senatrova, John Randolph, Caroline Kness, and Richard Young.
 
