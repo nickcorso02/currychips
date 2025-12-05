@@ -52,10 +52,9 @@ In _Curry and Chips_, Spike Milligan in brown face, plays Kevin O’Grady who is
 
 ***About the Edition***
 
-
 The original version of the television show Curry and Chips is not accessible through its original source, London Weekend Television on the ITV Network. However, it is readily available on YouTube and streaming services like Plex, where the six-episode season is posted for public viewing. Although the episodes remain under copyright by London Weekend Television, they are still accessible for public display.
 
-The full six-episode series can be found on physical DVD copies, which are still being exchanged through secondary markets like eBay. Additionally, the Internet Archive offers the whole season on its website, serving as a non-profit source for information and entertainment for historians and researchers. [^1]
+The full six-episode series can be found on physical DVD copies, which are still being exchanged through secondary markets like eBay. Additionally, the Internet Archive offers the whole season on its website, serving as a non-profit source for information and entertainment for historians and researchers. [^8]
 
 The procedures used for presenting this source involved taking various points from the first episode of the show and capturing still images of specific scenes. The use of still images allows for more context of the scene itself. To alter the images slightly, applications like Adobe Photoshop helped present the highest quality picture for the edition.
 
@@ -65,7 +64,123 @@ The transcripts offered include necessary context for the scene, exact transcrip
 
 Altercations that we made were focused on the clarity and contrast of the still images, as the original video is slightly blurred. To enhance the picture, we used Adobe Photoshop to demonstrate any changes in the original source.
 
-[^1]: Internet Archive 
+[^8]: Internet Archive 
+
+***Transcriptions***
+
+**Photo 1**
+
+**1:35-1:45**
+
+_Kenny[^9], a black factory worker, is picking through plastic toy bugs and sorting them in boxes_. 
+
+_Arthur, Kenny’s white boss, comes up behind Kenny to inspect his work as Kenny is[^10] holding up a large brown spider_.
+
+Arthur: Got your lunch then.
+
+_Both Arthur and Kenny laugh, Arthur walks behind Kenny to leave, passing him before turning around and addressing him seriously_.
+
+Arthur: It’s just a joke!
+
+Kenny: Yeah, yeah…
+
+_Arthur exits and Kenny continues his work_.
+
+[^9]: Kenny Lynch, a Black musician and television actor, was one of the few Black British singers in popular music.
+[^10]: Eric Sykes, television actor born in England.
+
+**Photo 2**
+
+**2:21-3:48**
+
+_In his office, Arthur is sitting at his desk testing toy props looking down while Kevin O’Grady[^11], an Irish-Pakistani worker is standing to his right_.
+
+Arthur: If those are explode-able boots, we’ve got enough, thank you.
+
+Kevin (_in an exaggerated Indian accent_): Oh, no. I am from the unemployment exchange. They are telling me there might be a job here.
+
+Arthur: Ah, there is!
+
+_Arthur looks up to see Kevin is not a white man and makes a disgusted face. He looks Kevin up and down before standing up from his desk_.
+
+Arthur: Well, then again, there might not be. Are you from India?
+
+Kevin: Pakistan.
+
+Arthur: (_slaps desk a few times_) Pakistan, sure. Hang on a second.
+
+_Arthur exits his office, leaving Kevin, and enters the factory work area to go consult Norman_.
+
+Arthur: Norman!
+
+_Norman mumbles in acknowledgment_.
+
+Arthur: I’ve got a new hand starting.
+
+Norman[^12] (_facing away from Arthur_): About time.
+
+Arthur: There’s a labor shortage, and uh, it’s a job to get people these days.
+
+Norman: It’s the bloody wages.
+
+Arthur: Yeah, but don’t start that— was your lot that brought the wages freeze in. He’s a— He’s a foreign gentleman.
+
+_Norman turns to face Arthur with an angry tone_.
+
+Norman: He what?
+
+Arthur: Pakistani.
+
+_The camera moves to include Kenny working in the foreground of the shot, while Arthur and Norman are arguing behind him_.
+
+Norman (_gesturing angrily at Kenny_) Now listen, we’ve got our coloured clothes, we don’t want anymore blacks.
+
+Arthur (_Walking towards Kenny and gesturing_): You can’t count him, he’s British. He was born in London.
+
+(_Kenny walks away and the camera focuses back on Norman and Arthur_)
+
+Arthur: Look, I— He’s not black, well only in colour.
+
+Norman: Well, that’s how we tell ‘em isn’t it— by the colour, I mean that’s all we’ve got to go on.
+
+Arthur: All right, I know he looks black…
+
+Norman: Well he’s black enough for me.
+
+Arthur: You’re biased, you are. You call yourself a laborer and you can’t stand blacks. You’re not a laborer, you’re a fascist that's what you are!
+
+(_Norman interrupting Arthur_)
+
+Norman: No, listen, listen. I voted on labor on’me life, and me father before me, but when it comes to blacks— I’m with Enoch[^13].
+
+Arthur: Right, but it was your lot that brought in the Race Relations Bill[^14].
+
+Norman: Mistake.
+
+Arthur: Nevertheless! Either I start him, or the firm gets fined, or I do.
+
+Norman: If you do start him you might have a strike on your hands.
+
+(_Kenny enters the scene between Norman and Arthor to interject before quickly returning to his work_.)
+
+Kenny: Quite right Norman.
+
+Norman: Yeah.
+
+Arthur: Now Norman, let’s be reasonable. Let’s come to some sort of a compromise.
+
+Norman: All right. (_Gestures to Kenny at his workstation_) Sack him, then you can start him.
+
+(_Laugh track plays_)
+
+Kenny: Do what?
+
+Arthur: No, alright. I can’t sack him— I go to football with him (_again gestures to Kenny as he leaves_).
+
+[^11]: Actor Spike Milligan in brown face
+[^12]: Norman Rossington, British actor born in Liverpool.
+[^13]: Enoch tbd
+[^14]: Race Relations tbd
 
 
 ***Bibliography***
@@ -109,7 +224,7 @@ Wilson, Amrit. “‘Mercy and Wisdom of a Government’?: Race, Culture and Imm
 [https://www.jstor.org/stable/j.ctt18dzts9](https://www.jstor.org/stable/j.ctt18dzts9)]
 
 Woods, Rebecca. 2016. “Racism and Ignorance in 1966 England.” BBC News, June 1, 2016, sec. Birmingham & Black Country.
-[https://www.bbc.com/news/uk-england-birmingham-36388761]
+https://www.bbc.com/news/uk-england-birmingham-36388761
 
 # Credits and Acknowledgments
 
@@ -126,5 +241,4 @@ _Please leave this credit (eliminating this italicized part)_
 
 # References
 
-[^1]: Your footnote tags and texts will go here.
 
