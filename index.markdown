@@ -68,7 +68,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo 1**
 
-![Kenny and Arthur](img/picone.png)
+
 
 <img width="512" height="320" alt="pic one" src="https://github.com/user-attachments/assets/4aac63e0-aff6-4ca9-8eeb-05f7ef207ce0" />
 
@@ -93,6 +93,8 @@ _Arthur exits and Kenny continues his work_.
 [^10]: Eric Sykes, television actor born in England.
 
 **Photo 2**
+
+<img width="512" height="320" alt="pic two" src="https://github.com/user-attachments/assets/aa6c9b88-5f99-4932-884f-cdbe341f92b4" />
 
 _2:21-3:48_
 
@@ -187,6 +189,8 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 
 **Photo 3**
 
+![pic three](https://github.com/user-attachments/assets/e3551e6b-9d15-4005-ba51-48f59e613c61)
+
 _2:39 - 5:25_
 
 _Arthur comes into the factory to tell Norman that they have a new “Scotty” due to the labor shortage. Arthur tells Norman that the new hire is a foreign man. Norman becomes upset at hearing this news from Arthur. Norman becomes annoyed and says they already have another colored person working. Norman and Arthur briefly talk about the labor, and Kevin walks up behind Arthur. Kevin introduces himself as Kevin O’Grady_.
@@ -233,6 +237,8 @@ _Arthur brings Kevin over to a table to introduce him to more workers_.
 
 **Photo 4**
 
+![pic four](https://github.com/user-attachments/assets/e7c69d84-7929-47df-a55d-c2df6f0ae3dc)
+
 _3:58-4:15_
 
 _After trying to reassure his workers that the new employee will be satisfactory, saying to wait till they see him, the boss, Arthur, turns to be directly face-to-face with Kevin, nearly touching him. Arthur exclaims in surprise, and touches Kevin’s shoulder to shift him back_.
@@ -252,6 +258,8 @@ Kevin: Yes, I’m Irish.
 _The joke is that Kevin subverts their expectation of having a typical South Asian name, and is mixed Irish-Pakistani_.
 
 **Photo 5**
+
+![pic five](https://github.com/user-attachments/assets/525c20ab-3a43-482a-bc36-2cddab80df11)
 
 _6:35 - 7:14_
 
@@ -278,6 +286,8 @@ _Arthur looks around to see if the young woman reacts_.
 [^16]: British slang term used to refer to women in an inappropriate manner 
 
 **Photo 6**
+
+![pic six](https://github.com/user-attachments/assets/76e28f43-1731-44c1-b801-45bfb011c569)
 
 _15:00-15:22_
 
