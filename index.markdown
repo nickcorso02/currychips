@@ -70,7 +70,8 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 ![Kenny and Arthur](img/picone.png)
 
-assets/img/pic one.png
+<img width="512" height="320" alt="pic one" src="https://github.com/user-attachments/assets/4aac63e0-aff6-4ca9-8eeb-05f7ef207ce0" />
+
 
 _1:35-1:45_
 
