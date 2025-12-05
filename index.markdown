@@ -68,6 +68,8 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo 1**
 
+![Kenny and Arthur](img/pic one.png)
+
 assets/img/pic one.png
 
 _1:35-1:45_
