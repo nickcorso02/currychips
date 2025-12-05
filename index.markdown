@@ -14,8 +14,6 @@ By highlighting individual scenes that portray racism, the dynamics of the worki
 
 {% include media_next.html pages=media %}
 
-{% include media_next.html pages=media %}
-
 
 ***The Source***
 
