@@ -3,7 +3,7 @@ page: source
 title: Image_№1_from_Introduction
 media_type: image
 
-_title: Apple tree
+_title: Transcription one 
 description: Main page photo
 creator: Unknown
 _date: Unknown
