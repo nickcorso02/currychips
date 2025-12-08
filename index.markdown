@@ -4,7 +4,7 @@ layout: single_page
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
-# Curry and Chips: Racism and Satire in 1960's British Television 
+# Curry and Chips: Racism and Satire in 1960's British Television
 
 ***Introduction***
 
