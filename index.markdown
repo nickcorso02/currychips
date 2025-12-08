@@ -14,10 +14,6 @@ By highlighting individual scenes that portray racism, the dynamics of the worki
 
 {% include media_next.html pages=media %}
 
-**How to Cite:**
-
-> Corso, Nick, Falk, Shulamit, and Wilson, Lakyn. “Curry and Chips: Racism and Satire in 1960’s British Television.” December 7, 2025. [nickcorso02.github.io/currychips/]
-
 ***The Source***
 
 This edition provides the link to a digital version of _Curry and Chips_ available on the Internet Archive containing all six episodes, but due to the fragile state of digital archiving and unforeseeable changes in technology that might make this source inaccessible, transcriptions of select scenes have been included from _Curry and Chips_ Season 1, Episode 1 that are representative of the social and cultural context from which _Curry and Chips_ originated. Below are experts depicting complex racial interactions, the social ianteractions of the working class, and satire in 1960s Britain.
@@ -365,6 +361,9 @@ https://www.bbc.com/news/uk-england-birmingham-36388761
 
 We would like to thank Professor Antoinette Burton for her insightful discussion on 1960s racism and the powerful role of satire in shaping and deepening our understanding of _Curry and Chips_. 
 
+**How to Cite:**
+
+> Corso, Nick, Falk, Shulamit, and Wilson, Lakyn. “Curry and Chips: Racism and Satire in 1960’s British Television.” December 7, 2025. [nickcorso02.github.io/currychips/]
 
 
 # About MinDoc 1.0
