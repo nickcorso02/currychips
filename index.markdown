@@ -233,7 +233,7 @@ Arthur: Well not too hard, lad.
 
 _Arthur brings Kevin over to a table to introduce him to more workers_.
 
-[^16]: used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East. 
+[^16]: Used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East. 
 
 **Photo Four: Stereotype**
 
