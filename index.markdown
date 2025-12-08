@@ -4,7 +4,7 @@ layout: single_page
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
-# Curry and Chips 
+# Curry and Chips: Racism and Satire in 1960's British Television 
 
 ***Introduction***
 
@@ -17,7 +17,7 @@ By highlighting individual scenes that portray racism, the dynamics of the worki
 
 ***The Source***
 
-This edition provides the link to a digital version of _Curry and Chips_ available on the Internet Archive containing all six episodes, but due to the fragile state of digital archiving and unforeseeable changes in technology that might make this source inaccessible, transcriptions of select scenes have been included from _Curry and Chips_ Season 1, Episode 1 that are representative of the social and cultural context from which _Curry and Chips_ originated. Below are experts depicting complex racial interactions, the social interactions of the working class, and satire in 1960s Britain.
+This edition provides the link to a digital version of _Curry and Chips_ available on the Internet Archive containing all six episodes, but due to the fragile state of digital archiving and unforeseeable changes in technology that might make this source inaccessible, transcriptions of select scenes have been included from _Curry and Chips_ Season 1, Episode 1 that are representative of the social and cultural context from which _Curry and Chips_ originated. Below are experts depicting complex racial interactions, the social ianteractions of the working class, and satire in 1960s Britain.
 
 [https://archive.org/details/s01e06_202002/Curry.and.Chips.S01E01.mp4]
 
@@ -67,8 +67,6 @@ Altercations that we made were focused on the clarity and contrast of the still 
 ***Transcriptions***
 
 **Photo 1**
-
-
 
 <img width="512" height="320" alt="pic one" src="https://github.com/user-attachments/assets/4aac63e0-aff6-4ca9-8eeb-05f7ef207ce0" />
 
