@@ -94,13 +94,13 @@ _Arthur exits and Kenny continues his work_.
 
 <img width="512" height="320" alt="pic two" src="https://github.com/user-attachments/assets/aa6c9b88-5f99-4932-884f-cdbe341f92b4" />
 
-_2:21-3:48_
+**2:21-3:48**
 
 _In his office, Arthur is sitting at his desk testing toy props looking down while Kevin O’Grady[^11], an Irish-Pakistani worker is standing to his right_.
 
 Arthur: If those are explode-able boots, we’ve got enough, thank you.
 
-Kevin (_in an exaggerated Indian accent_): Oh, no. I am from the unemployment exchange. They are telling me there might be a job here.
+Kevin (_in an exaggerated Indian accent_): Oh, no. I am from the unemployment exchange[^12]. They are telling me there might be a job here.
 
 Arthur: Ah, there is!
 
@@ -120,7 +120,7 @@ _Norman mumbles in acknowledgment_.
 
 Arthur: I’ve got a new hand starting.
 
-Norman[^12] (_facing away from Arthur_): About time.
+Norman[^13] (_facing away from Arthur_): About time.
 
 Arthur: There’s a labor shortage, and uh, it’s a job to get people these days.
 
@@ -154,9 +154,9 @@ Arthur: You’re biased, you are. You call yourself a laborer and you can’t st
 
 (_Norman interrupting Arthur_)
 
-Norman: No, listen, listen. I voted on labor on’me life, and me father before me, but when it comes to blacks— I’m with Enoch[^13].
+Norman: No, listen, listen. I voted on labor on’me life, and me father before me, but when it comes to blacks— I’m with Enoch[^14].
 
-Arthur: Right, but it was your lot that brought in the Race Relations Bill[^14].
+Arthur: Right, but it was your lot that brought in the Race Relations Bill[^15].
 
 Norman: Mistake.
 
@@ -181,15 +181,19 @@ Kenny: Do what?
 Arthur: No, alright. I can’t sack him— I go to football with him (_again gestures to Kenny as he leaves_).
 
 [^11]: Actor Spike Milligan in brown face
-[^12]: Norman Rossington, British actor born in Liverpool.
-[^13]: Enoch tbd
-[^14]: Race Relations tbd
+[^12]: The Local Employment Acts of 1960 and 1963 were put in place with the purpose of cutting back high unemployment rates.  Thirlwall, A.P. “The Local Employment Acts 1960 and 1963: A Progress Report.”
+[^13]: Norman Rossington, British actor born in Liverpool.
+[^14]: British political figure, Enoch Powell, who gave the 'River of Blood' speech in 1968.
+[^15]: Expanded from the 1965 Act, the 1968 Race Relations Act "focused on eradicating discrimination in housing and employment." UK Parliament. “1968 Race Relations Act.”
 
 **Photo 3**
 
 ![pic three](https://github.com/user-attachments/assets/e3551e6b-9d15-4005-ba51-48f59e613c61)
 
-_2:39 - 5:25_
+
+**2:39 - 5:25**
+
+  
 
 _Arthur comes into the factory to tell Norman that they have a new “Scotty” due to the labor shortage. Arthur tells Norman that the new hire is a foreign man. Norman becomes upset at hearing this news from Arthur. Norman becomes annoyed and says they already have another colored person working. Norman and Arthur briefly talk about the labor, and Kevin walks up behind Arthur. Kevin introduces himself as Kevin O’Grady_.
 
@@ -209,7 +213,7 @@ Norman: Listen, all right cocky, but If I’ll be not gettin’ in, the eyes wil
 
 _Norman starts to walk away_
 
-Norman: I tell you what, if they sent all the wogs[^15] back home, we’d have an extra hour of daylight.
+Norman: I tell you what, if they sent all the wogs[^16] back home, we’d have an extra hour of daylight.
 
 _Arthur and Norman turn and look at each other_.
 
@@ -231,7 +235,7 @@ Arthur: Well not too hard, lad.
 
 _Arthur brings Kevin over to a table to introduce him to more workers_.
 
-[^15]: Used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East 
+[^16]: used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East. 
 
 **Photo 4**
 
@@ -357,11 +361,9 @@ https://www.bbc.com/news/uk-england-birmingham-36388761
 
 # Credits and Acknowledgments
 
-TBD
+We would like to thank Professor Antoinette Burton for her insightful discussion on 1960s racism and the powerful role of satire in shaping and deepening our understanding of _Curry and Chips_. 
 
-# Optional: Author Biography
 
-TBD
 
 # About MinDoc 1.0
 
