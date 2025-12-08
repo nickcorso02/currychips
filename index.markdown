@@ -69,7 +69,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 <img width="512" height="320" alt="pic one" src="https://github.com/user-attachments/assets/4aac63e0-aff6-4ca9-8eeb-05f7ef207ce0" />
 
-_1:35-1:45_
+**1:35-1:45**
 
 _Kenny[^9], a black factory worker, is picking through plastic toy bugs and sorting them in boxes_. 
 
@@ -239,7 +239,7 @@ _Arthur brings Kevin over to a table to introduce him to more workers_.
 
 ![pic four](https://github.com/user-attachments/assets/e7c69d84-7929-47df-a55d-c2df6f0ae3dc)
 
-_3:58-4:15_
+**3:58-4:15**
 
 _After trying to reassure his workers that the new employee will be satisfactory, saying to wait till they see him, the boss, Arthur, turns to be directly face-to-face with Kevin, nearly touching him. Arthur exclaims in surprise, and touches Kevin’s shoulder to shift him back_.
 
@@ -289,7 +289,7 @@ _Arthur looks around to see if the young woman reacts_.
 
 ![pic six](https://github.com/user-attachments/assets/76e28f43-1731-44c1-b801-45bfb011c569)
 
-_15:00-15:22_
+**15:00-15:22**
 
 _Arthur brings Kevin to the local bar that he frequents, to try and make Kevin feel more comfortable in a hostile work environment. The other patrons, Tom and Dick, give him flack for being a foreigner and being ‘colored.’ Kevin does not know what to order, so the others are suspicious that he may be a Muslim that would not drink, despite Kevin insisting against that. They give him a Guinness, a dark Irish beer, while everyone else is drinking lighter beers. Kevin takes offense from this, misunderstanding the intent_.
 
