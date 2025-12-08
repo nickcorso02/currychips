@@ -4,7 +4,7 @@ layout: single_page
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
-# _Curry and Chips_: Racism and Satire in 1960's British Television
+# _Curry and Chips_:  Racism and Satire in 1960's British Television
 
 ***Introduction***
 
@@ -13,6 +13,10 @@ layout: single_page
 By highlighting individual scenes that portray racism, the dynamics of the working class, and satire, we provide topical and clear examples as a reference point for the themes within the edition and from within the original source. This edition is limited to six scenes within the first episode in order to give readers an idea of the source and what it represents in a wider context of the post-colonial atmosphere of Britain in 1969. “_Curry and Chips_” is a unique source because it provides multimodal context to what the approach was to racial issues and social unrest in the decades post-decolonization and the World Wars.
 
 {% include media_next.html pages=media %}
+
+**How to Cite:**
+
+> Corso, Nick, Falk, Shulamit, and Wilson, Lakyn. “Curry and Chips: Racism and Satire in 1960’s British Television.” December 7, 2025. [nickcorso02.github.io/currychips/]
 
 ***The Source***
 
