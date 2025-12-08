@@ -65,7 +65,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 ***Transcriptions***
 
-**Photo 1**
+**Photo One: Racist Remark**
 
 <img width="512" height="320" alt="pic one" src="https://github.com/user-attachments/assets/4aac63e0-aff6-4ca9-8eeb-05f7ef207ce0" />
 
@@ -88,7 +88,7 @@ _Arthur exits and Kenny continues his work_.
 [^9]: Kenny Lynch, a Black musician and television actor, was one of the few Black British singers in popular music.
 [^10]: Eric Sykes, television actor born in England.
 
-**Photo 2**
+**Photo Two: Racist Remark**
 
 <img width="512" height="320" alt="pic two" src="https://github.com/user-attachments/assets/aa6c9b88-5f99-4932-884f-cdbe341f92b4" />
 
@@ -184,7 +184,7 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 [^14]: British political figure, Enoch Powell, who gave the 'River of Blood' speech in 1968.
 [^15]: Expanded from the 1965 Act, the 1968 Race Relations Act "focused on eradicating discrimination in housing and employment." UK Parliament. “1968 Race Relations Act.”
 
-**Photo 3**
+**Photo Three: Racist Remark**
 
 ![pic three](https://github.com/user-attachments/assets/e3551e6b-9d15-4005-ba51-48f59e613c61)
 
@@ -235,7 +235,7 @@ _Arthur brings Kevin over to a table to introduce him to more workers_.
 
 [^16]: used as an insulting and contemptuous term for a dark-skinned foreigner and especially for one from the Middle East. 
 
-**Photo 4**
+**Photo Four: Stereotype**
 
 ![pic four](https://github.com/user-attachments/assets/e7c69d84-7929-47df-a55d-c2df6f0ae3dc)
 
@@ -257,7 +257,7 @@ Kevin: Yes, I’m Irish.
 
 _The joke is that Kevin subverts their expectation of having a typical South Asian name, and is mixed Irish-Pakistani_.
 
-**Photo 5**
+**Photo Five: Workplace stereotype**
 
 ![pic five](https://github.com/user-attachments/assets/525c20ab-3a43-482a-bc36-2cddab80df11)
 
@@ -285,7 +285,7 @@ _Arthur looks around to see if the young woman reacts_.
 
 [^17]: British slang term used to refer to women in an inappropriate manner.
 
-**Photo 6**
+**Photo Six: Satire and Racism**
 
 ![pic six](https://github.com/user-attachments/assets/76e28f43-1731-44c1-b801-45bfb011c569)
 
