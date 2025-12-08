@@ -12,7 +12,6 @@ layout: single_page
 
 By highlighting individual scenes that portray racism, the dynamics of the working class, and satire, we provide topical and clear examples as a reference point for the themes within the edition and from within the original source. This edition is limited to six scenes within the first episode in order to give readers an idea of the source and what it represents in a wider context of the post-colonial atmosphere of Britain in 1969. “_Curry and Chips_” is a unique source because it provides multimodal context to what the approach was to racial issues and social unrest in the decades post-decolonization and the World Wars.
 
-{% include media_next.html pages=media %}
 
 ***The Source***
 
@@ -67,7 +66,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo One: Racist Remark**
 
-<img width="512" height="320" alt="pic one" src="https://github.com/user-attachments/assets/4aac63e0-aff6-4ca9-8eeb-05f7ef207ce0" />
+{% include media_next.html pages=media %}
 
 **1:35-1:45**
 
@@ -90,7 +89,7 @@ _Arthur exits and Kenny continues his work_.
 
 **Photo Two: Racist Remark**
 
-<img width="512" height="320" alt="pic two" src="https://github.com/user-attachments/assets/aa6c9b88-5f99-4932-884f-cdbe341f92b4" />
+{% include media_next.html pages=media %}
 
 **2:21-3:48**
 
@@ -186,12 +185,9 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 
 **Photo Three: Racist Remark**
 
-![pic three](https://github.com/user-attachments/assets/e3551e6b-9d15-4005-ba51-48f59e613c61)
-
+{% include media_next.html pages=media %}
 
 **2:39 - 5:25**
-
-  
 
 _Arthur comes into the factory to tell Norman that they have a new “Scotty” due to the labor shortage. Arthur tells Norman that the new hire is a foreign man. Norman becomes upset at hearing this news from Arthur. Norman becomes annoyed and says they already have another colored person working. Norman and Arthur briefly talk about the labor, and Kevin walks up behind Arthur. Kevin introduces himself as Kevin O’Grady_.
 
@@ -237,7 +233,7 @@ _Arthur brings Kevin over to a table to introduce him to more workers_.
 
 **Photo Four: Stereotype**
 
-![pic four](https://github.com/user-attachments/assets/e7c69d84-7929-47df-a55d-c2df6f0ae3dc)
+{% include media_next.html pages=media %}
 
 **3:58-4:15**
 
@@ -259,7 +255,7 @@ _The joke is that Kevin subverts their expectation of having a typical South Asi
 
 **Photo Five: Workplace stereotype**
 
-![pic five](https://github.com/user-attachments/assets/525c20ab-3a43-482a-bc36-2cddab80df11)
+{% include media_next.html pages=media %}
 
 **6:35 - 7:14**
 
@@ -287,7 +283,7 @@ _Arthur looks around to see if the young woman reacts_.
 
 **Photo Six: Satire and Racism**
 
-![pic six](https://github.com/user-attachments/assets/76e28f43-1731-44c1-b801-45bfb011c569)
+{% include media_next.html pages=media %}
 
 **15:00-15:22**
 
