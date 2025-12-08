@@ -263,7 +263,7 @@ _The joke is that Kevin subverts their expectation of having a typical South Asi
 
 ![pic five](https://github.com/user-attachments/assets/525c20ab-3a43-482a-bc36-2cddab80df11)
 
-_6:35 - 7:14_
+**6:35 - 7:14**
 
 _The workers all get their lunch and sit down at a table to eat. Kevin pours a heavy amount of salt on his food. Arthur stares at Kevin with his hand out as a gesture for the salt. While this is happening, there is background laughter and small talk. A young woman, who works at the factory, walks into the lunchroom_.
 
@@ -277,7 +277,7 @@ Arthur: Oh, the whistle. Well, that’s British. That’s chivalry. Oh yeah, tha
 
 _Arthur pauses for a moment and Norman jumps into the conversation_.
 
-Norman: Crumpet[^16].
+Norman: Crumpet[^17].
 
 _Kevin begins to whistle towards the young woman_
 
@@ -285,7 +285,7 @@ Kevin: Do you young crumpet lady?
 
 _Arthur looks around to see if the young woman reacts_.
 
-[^16]: British slang term used to refer to women in an inappropriate manner 
+[^17]: British slang term used to refer to women in an inappropriate manner.
 
 **Photo 6**
 
