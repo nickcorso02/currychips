@@ -185,8 +185,6 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 
 **Photo Three: Racist Remark**
 
-{% include media_next.html pages=media %}
-
 **2:39 - 5:25**
 
 _Arthur comes into the factory to tell Norman that they have a new “Scotty” due to the labor shortage. Arthur tells Norman that the new hire is a foreign man. Norman becomes upset at hearing this news from Arthur. Norman becomes annoyed and says they already have another colored person working. Norman and Arthur briefly talk about the labor, and Kevin walks up behind Arthur. Kevin introduces himself as Kevin O’Grady_.
@@ -233,7 +231,6 @@ _Arthur brings Kevin over to a table to introduce him to more workers_.
 
 **Photo Four: Stereotype**
 
-{% include media_next.html pages=media %}
 
 **3:58-4:15**
 
@@ -255,7 +252,7 @@ _The joke is that Kevin subverts their expectation of having a typical South Asi
 
 **Photo Five: Workplace stereotype**
 
-{% include media_next.html pages=media %}
+
 
 **6:35 - 7:14**
 
@@ -283,7 +280,7 @@ _Arthur looks around to see if the young woman reacts_.
 
 **Photo Six: Satire and Racism**
 
-{% include media_next.html pages=media %}
+
 
 **15:00-15:22**
 
