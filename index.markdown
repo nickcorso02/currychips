@@ -12,6 +12,7 @@ layout: single_page
 
 By highlighting individual scenes that portray racism, the dynamics of the working class, and satire, we provide topical and clear examples as a reference point for the themes within the edition and from within the original source. This edition is limited to six scenes within the first episode in order to give readers an idea of the source and what it represents in a wider context of the post-colonial atmosphere of Britain in 1969. “_Curry and Chips_” is a unique source because it provides multimodal context to what the approach was to racial issues and social unrest in the decades post-decolonization and the World Wars.
 
+{% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
 ***The Source***
 
