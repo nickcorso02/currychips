@@ -363,7 +363,7 @@ We would like to thank Professor Antoinette Burton for her insightful discussion
 
 **How to Cite:**
 
-> Corso, Nick, Falk, Shulamit, and Wilson, Lakyn. “Curry and Chips: Racism and Satire in 1960’s British Television.” December 7, 2025. [nickcorso02.github.io/currychips/]
+Corso, Nick, Falk, Shulamit, and Wilson, Lakyn. “Curry and Chips: Racism and Satire in 1960’s British Television.” December 7, 2025. [nickcorso02.github.io/currychips/]
 
 
 # About MinDoc 1.0
