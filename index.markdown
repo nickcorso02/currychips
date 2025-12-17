@@ -15,7 +15,6 @@ By highlighting individual scenes that portray racism, the dynamics of the worki
 {% include media_next.html pages=media %}
 
 
-
 ***The Source***
 
 This edition provides the link to a digital version of _Curry and Chips_ available on the Internet Archive containing all six episodes, but due to the fragile state of digital archiving and unforeseeable changes in technology that might make this source inaccessible, transcriptions of select scenes have been included from _Curry and Chips_ Season 1, Episode 1 that are representative of the social and cultural context from which _Curry and Chips_ originated. Below are excerpts depicting complex racial interactions, the social interactions of the working class, and satire in 1960s Britain.
