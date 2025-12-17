@@ -323,6 +323,10 @@ Arthur, _losing his temper_: Because I don’t like Guinness!
 
 _Arthur turns, venting his frustrations: You bend over backwards for them_!
 
+***Relevant Information***
+
+{% include media_next.html pages=media %}
+
 
 ***Bibliography***
 
