@@ -189,7 +189,10 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 
 **Photo Three: Racist Remark**
 
+
 {% include media_next.html pages=media %}
+
+
 
 **2:39 - 5:25**
 
