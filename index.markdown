@@ -240,7 +240,10 @@ _Arthur brings Kevin over to a table to introduce him to more workers_.
 
 **Photo Four: Stereotype**
 
+
 {% include media_next.html pages=media %}
+
+
 
 **3:58-4:15**
 
