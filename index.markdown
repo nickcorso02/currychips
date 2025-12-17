@@ -12,6 +12,7 @@ layout: single_page
 
 By highlighting individual scenes that portray racism, the dynamics of the working class, and satire, we provide topical and clear examples as a reference point for the themes within the edition and from within the original source. This edition is limited to six scenes within the first episode in order to give readers an idea of the source and what it represents in a wider context of the post-colonial atmosphere of Britain in 1969. “_Curry and Chips_” is a unique source because it provides multimodal context to what the approach was to racial issues and social unrest in the decades post-decolonization and the World Wars.
 
+{% include media_next.html pages=media %}
 
 ***The Source***
 
@@ -45,7 +46,6 @@ In _Curry and Chips_, Spike Milligan in brown face, plays Kevin O’Grady who is
 [^6]: Bebber, "Till Death Us Do Part: Political Satire and Social Realism in the 1960s and 1970s."
 [^7]: Speight, Johnny. "Curry and Chips."
 
-
 ***About the Edition***
 
 The original version of the television show Curry and Chips is not accessible through its original source, London Weekend Television on the ITV Network. However, it is readily available on YouTube and streaming services like Plex, where the six-episode season is posted for public viewing. Although the episodes remain under copyright by London Weekend Television, they are still accessible for public display.
@@ -66,7 +66,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo One: Racist Remark**
 
-{% include media_next.html pages=media %}
+
 
 **1:35-1:45**
 
@@ -89,7 +89,7 @@ _Arthur exits and Kenny continues his work_.
 
 **Photo Two: Racist Remark**
 
-{% include media_next.html pages=media %}
+
 
 **2:21-3:48**
 
@@ -185,7 +185,6 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 
 **Photo Three: Racist Remark**
 
-{% include media_next.html pages=media %}
 
 **2:39 - 5:25**
 
@@ -255,7 +254,7 @@ _The joke is that Kevin subverts their expectation of having a typical South Asi
 
 **Photo Five: Workplace stereotype**
 
-{% include media_next.html pages=media %}
+
 
 **6:35 - 7:14**
 
@@ -283,7 +282,6 @@ _Arthur looks around to see if the young woman reacts_.
 
 **Photo Six: Satire and Racism**
 
-{% include media_next.html pages=media %}
 
 **15:00-15:22**
 
