@@ -1,15 +1,15 @@
 ---
 page: source
-title: Title Screen
+title: Image 1 - Plastic Bug
 media_type: image
 
-_title: Title Screen
-description: Image
-creator: Unknown
-_date: Unknown
-rights: CC BY
+_title: Image 1 - Plastic Bug
+description: Racial remarks made about eating plastic toy bugs
+creator: Johnny Speight 
+_date: November 21, 1969
+rights: CC BY London Weekend Television (LWT) for the ITV network
 type: A photo
-source: somewhere
+source: Internet Archive 
 identifier:
 contributor:
 format:
