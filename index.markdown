@@ -68,7 +68,7 @@ Altercations that we made were focused on the clarity and contrast of the still 
 
 **Photo One: Racist Remark**
 
-
+{% include media_next.html pages=media %}
 
 **1:35-1:45**
 
@@ -91,7 +91,7 @@ _Arthur exits and Kenny continues his work_.
 
 **Photo Two: Racist Remark**
 
-
+{% include media_next.html pages=media %}
 
 **2:21-3:48**
 
@@ -187,6 +187,7 @@ Arthur: No, alright. I can’t sack him— I go to football with him (_again ges
 
 **Photo Three: Racist Remark**
 
+{% include media_next.html pages=media %}
 
 **2:39 - 5:25**
 
@@ -256,7 +257,7 @@ _The joke is that Kevin subverts their expectation of having a typical South Asi
 
 **Photo Five: Workplace stereotype**
 
-
+{% include media_next.html pages=media %}
 
 **6:35 - 7:14**
 
