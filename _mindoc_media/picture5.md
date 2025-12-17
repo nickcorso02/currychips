@@ -1,10 +1,10 @@
 ---
 page: source
-title: Image 5 - Guinness Beer
+title: Image 5 - Lunchroom Chivalry 
 media_type: image
 
-_title: Image 5 - Guinness Beer
-description: Arthur brings Kevin to a bar and gives him a Guinness beer, an Irish-based malt beer 
+_title: Image 5 - Lunchroom Chivalry
+description: The workers at Lillicrap Ltd sit down for lunch together. Arthur and Norman inform Kevin of certain British slang to refer to women
 creator: Johnny Speight
 _date: November 21, 1969
 rights: CC BY London Weekend Television (LWT) for the ITV network
