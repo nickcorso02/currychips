@@ -333,7 +333,6 @@ _Arthur turns, venting his frustrations: You bend over backwards for them_!
 Actor Spike Milligan used blackface to portray an Irish-Pakistani worker. Blackface has been used in the film industry since the early nineteenth century in the United States as a function to dehumanize Black people.[^18]
 
 [^18]: By distorting the features and culture of African Americans—including their looks, language, dance, deportment, and character—white Americans were able to codify _whiteness_ across class and geopolitical lines as its antithesis.
-_Blackface: The Birth of an American Stereotype | National Museum of African American History and Culture_, nmaahc.si.edu/explore/stories/blackface-birth-american-stereotype.
 
 
 ***Bibliography***
@@ -354,7 +353,7 @@ Bebber, Brett. 2014. “Till Death Us Do Part: Political Satire and Social Reali
 Bebber, Brett. “‘We Were Just Unwanted’: Bussing, Migrant Dispersal, and South Asians in London.” Journal of Social History 48, no. 3 (2015): 635–61.
 [[http://www.jstor.org/stable/43919790]](http://www.jstor.org/stable/43919790)
 
-_Blackface: The Birth of an American Stereotype | National Museum of African American History and Culture_, [nmaahc.si.edu/explore/stories/blackface-birth-american-stereotype].
+Blackface: The Birth of an American Stereotype | National Museum of African American History and Culture, [nmaahc.si.edu/explore/stories/blackface-birth-american-stereotype].
 
 “Definition of Sambo | Dictionary.com. n.d. 
 [https://www.dictionary.com/browse/sambo](https://www.dictionary.com/browse/sambo)]
