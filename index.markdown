@@ -296,6 +296,9 @@ _Arthur looks around to see if the young woman reacts_.
 **Photo Six: Satire and Racism**
 
 
+{% include media_next.html pages=media %}
+
+
 **15:00-15:22**
 
 _Arthur brings Kevin to the local bar that he frequents, to try and make Kevin feel more comfortable in a hostile work environment. The other patrons, Tom and Dick, give him flack for being a foreigner and being ‘colored.’ Kevin does not know what to order, so the others are suspicious that he may be a Muslim that would not drink, despite Kevin insisting against that. They give him a Guinness, a dark Irish beer, while everyone else is drinking lighter beers. Kevin takes offense from this, misunderstanding the intent_.
