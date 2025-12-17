@@ -1,9 +1,9 @@
 ---
 page: source
-title: Title Screen of _Curry and Chips_
+_title: Title Screen of Curry and Chips_
 media_type: image
 
-_title: Title Screen of _Curry and Chips_
+_title: Title Screen of Curry and Chips
 description: Cover image showing United Kingdom and Pakistan flags 
 creator: Johnny Speight 
 _date: November 21, 1969
