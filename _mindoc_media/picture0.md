@@ -1,15 +1,15 @@
 ---
 page: source
-title: Title Screen
+title: Title Screen of _Curry and Chips_
 media_type: image
 
-_title: Title Screen
-description: Image
-creator: Unknown
-_date: Unknown
-rights: CC BY
+_title: Title Screen of _Curry and Chips_
+description: Cover image showing United Kingdom and Pakistan flags 
+creator: Johnny Speight 
+_date: November 21, 1969
+rights: CC BY London Weekend Television (LWT) for the ITV network
 type: A photo
-source: somewhere
+source: IMDb
 identifier:
 contributor:
 format:
