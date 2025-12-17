@@ -1,9 +1,9 @@
 ---
 page: source
-title: Unemployment Exchange 
+title: Image 2 - Unemployment Exchange 
 media_type: image
 
-_title: Unemployment Exchange 
+_title: Image 2 - Unemployment Exchange 
 description: Norman questions Kevin's ability to work at Lilicrap Ltd as an Irish-Pakistani man
 creator: Johnny Speight
 _date: November 21, 1969
