@@ -1,9 +1,9 @@
 ---
 page: source
-title: Image 5 - Guinness Beer
+title: Image 6 - Guinness Beer
 media_type: image
 
-_title: Image 5 - Guinness Beer
+_title: Image 6 - Guinness Beer
 description: Arthur brings Kevin to a bar and gives him a Guinness beer, an Irish-based malt beer 
 creator: Johnny Speight
 _date: November 21, 1969
