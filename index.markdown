@@ -265,7 +265,9 @@ _The joke is that Kevin subverts their expectation of having a typical South Asi
 
 **Photo Five: Workplace stereotype**
 
+
 {% include media_next.html pages=media %}
+
 
 **6:35 - 7:14**
 
