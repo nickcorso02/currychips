@@ -8,7 +8,7 @@ description: Cover image showing United Kingdom and Pakistan flags
 creator: Johnny Speight 
 _date: November 21, 1969
 rights: CC BY London Weekend Television (LWT) for the ITV network
-type: A photo
+type: A screenshot
 source: IMDb
 identifier:
 contributor:
